@@ -1,0 +1,11 @@
+Use my Video Action Agent skill.
+
+Use the Video Action MCP connector.
+
+1. Analyze the uploaded video chronologically.
+2. Record important visual events with analyze_video_event.
+3. Separate observations from interpretations.
+4. Save the final proposed action with save_decision.
+5. Validate it with validate_action.
+6. Do NOT execute any external action.
+7. Report the MCP tool results clearly.
